@@ -41,3 +41,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignorar todos os vídeos
+*.mp4
+movies/*.mp4
